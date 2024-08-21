@@ -1,0 +1,48 @@
+body {
+    background-color: #f4e1d2;
+    padding: 20px;
+    }
+
+.asettelu {
+    width: 80%;
+    max-width: 500px;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.piano1 {
+    margin-left: auto;
+    margin-right: auto;
+    height: auto !important;
+    width: 500px !important;
+} 
+
+.D1scord {
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 30px;
+    position: relative;
+    align-items: center;
+    margin-left: 130px;
+    margin-bottom: 20px;
+    top: -40px;
+}
+
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: brown;
+  }
